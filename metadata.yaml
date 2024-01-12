@@ -1,0 +1,28 @@
+_repo: Onnen-arkku-b-Tarina-Halkovuorelta_72593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jäämaa, Ilmari
+    aliases:
+    - Ilmari Jäämaa
+    - Jaamaa, Ilmari
+    gutenberg_agent_id: '39420'
+    url: http://www.gutenberg.org/2009/agents/39420
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72593'
+language: fi
+pgterms:marc905: 20231207032537jmaa
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Onnen arkku : $b Tarina Halkovuorelta'
+url: http://www.gutenberg.org/ebooks/72593
